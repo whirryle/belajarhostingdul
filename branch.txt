@@ -4,5 +4,6 @@ Saya ingin belajar Laravel sampe CRUD
 
 * list kelas 11 RPL
 - Laravel CRUD
+- Tailwind
 - Android Studio
 - Python
