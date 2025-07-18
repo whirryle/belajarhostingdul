@@ -2,3 +2,7 @@ ini adalah branch yang saya tulis di github
 
 Saya ingin belajar Laravel sampe CRUD
 
+* list kelas 11 RPL
+- Laravel CRUD
+- Android Studio
+- Python
