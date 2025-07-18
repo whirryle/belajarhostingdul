@@ -1,1 +1,4 @@
 ini adalah branch yang saya tulis di github
+
+Saya ingin belajar Laravel sampe CRUD
+
